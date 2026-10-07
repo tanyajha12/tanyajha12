@@ -12,11 +12,32 @@
 
 ## 🚀 Projects
 
-| Project | What it does | Links |
-|---|---|---|
-| **FasalRaskha** | Detects crop diseases from leaf images using AI. | [Live](#) · [Code](#) |
-| **Jobveritas** | Flags fake job postings so job seekers can avoid scams. | [Live](#) · [Code](#) |
-| **PRGaurd-AI** | Reviews GitHub pull requests automatically with GenAI. | [Live](#) · [Code](#) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="center">Project</th>
+      <th width="60%" align="center">What it does</th>
+      <th width="20%" align="center">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>FasalRaskha</b></td>
+      <td>Detects crop diseases from leaf images using AI.</td>
+      <td align="center"><a href="#">Live</a> · <a href="#">Code</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Jobveritas</b></td>
+      <td>Flags fake job postings so job seekers can avoid scams.</td>
+      <td align="center"><a href="#">Live</a> · <a href="#">Code</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>PRGaurd-AI</b></td>
+      <td>Reviews GitHub pull requests automatically with GenAI.</td>
+      <td align="center"><a href="#">Live</a> · <a href="#">Code</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🔗 Connect with Me
 <p align="center">
