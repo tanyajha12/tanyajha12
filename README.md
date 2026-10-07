@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Tanya%20Jha&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Development%20Engineer%20Intern&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=tanyajha12">
-    <img src="https://komarev.com/ghpvc/?username=tanyajha12&label=Profile%20views&color=00FFFF&style=flat-square" alt="tanyajha12's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
 - Final-year B.Tech CSE (AI) student who builds full-stack web apps and puts GenAI into production systems. JavaScript, TypeScript, React, Node.js and MongoDB, with a focus on clean architecture.
 - Currently an SDE Intern at Raizing Global, building enterprise B2B partner portals.
