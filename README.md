@@ -20,9 +20,9 @@
 
 | Project | What it does | Links |
 |---|---|---|
-| **Crop Disease Detector** | Detects crop diseases from leaf images using AI. | [Live](#) · [Code](#) |
-| **Fraudulent Job Detector** | Flags fake job postings so job seekers can avoid scams. | [Live](#) · [Code](#) |
-| **AI Pull Request Reviewer** | Reviews GitHub pull requests automatically with GenAI. | [Live](#) · [Code](#) |
+| **FasalRaskha** | Detects crop diseases from leaf images using AI. | [Live](#) · [Code](#) |
+| **Jobveritas** | Flags fake job postings so job seekers can avoid scams. | [Live](#) · [Code](#) |
+| **PRGaurd-AI** | Reviews GitHub pull requests automatically with GenAI. | [Live](#) · [Code](#) |
 
 ## 🔗 Connect with Me
 <p align="center">
