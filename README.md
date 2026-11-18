@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 - Final-year B.Tech CSE (AI) student who builds full-stack web apps and puts GenAI into production systems. JavaScript, TypeScript, React, Node.js and MongoDB, with a focus on clean architecture.
-- Currently an SDE Intern at Raizing Global, building enterprise B2B partner portals.
+- Currently an SDE at Raizing Global, building enterprise B2B partner portals.
 - I've shipped three deployed apps: a crop disease detector, a fraudulent job detector and an AI pull request reviewer.
 
 ## 🛠️ Tech Stack
